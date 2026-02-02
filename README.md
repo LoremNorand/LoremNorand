@@ -32,8 +32,8 @@
 
 <!-- Stats: Minimal configuration, no streaks, monochrome theme -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoremNorand&show_icons=true&theme=graywhite&hide=stars,contribs&count_private=true&hide_rank=true&include_all_commits=true" alt="LoremNorand Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoremNorand&layout=compact&theme=graywhite&hide=html,css,jupyter%20notebook" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LoremNorand&show_icons=true&theme=graywhite&hide_rank=true" alt="LoremNorand Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoremNorand&layout=compact&theme=graywhite&hide=html,css" alt="Top Languages" height="150" />
 </p>
 
 ## Контакты
